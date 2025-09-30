@@ -6,4 +6,5 @@ contract Sync {
   // @deeydos draft pull "commit - 1"
   // TRY @deeydos draft pull "commit - 2"
   // TRY AGAIN @deeydos draft pull "commit - 2"
+  // ==== "commit - 3"
 }
