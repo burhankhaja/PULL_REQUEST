@@ -4,4 +4,5 @@ contract Sync {
   // comment added by burhan while merging from deeydos
 
   // @deeydos draft pull "commit - 1"
+  // TRY @deeydos draft pull "commit - 2"
 }
