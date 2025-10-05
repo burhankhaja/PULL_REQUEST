@@ -8,5 +8,7 @@ contract Sync {
   // TRY AGAIN @deeydos draft pull "commit - 2"
   // ==== "commit - 3"
 
+
+  // @deeydos :: change no 2 ::: DRAFT PULL :: FIRST TIME
   // TYRING co-author with ibraheemrashidkhaja
 }
