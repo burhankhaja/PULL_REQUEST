@@ -12,4 +12,5 @@ contract Sync {
 
 // @deeydos :::: Draft pull ::: from CHANGE_NO_1 BRANCH
 // SECOND TIME @deeydos :::: Draft pull ::: from CHANGE_NO_1 BRANCH
+// @deeydos CHANGE_1::FINAL AFTER CREATING CHANGE_2::BRANCH.DRAFT_PULL()
 }
