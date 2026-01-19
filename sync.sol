@@ -17,4 +17,5 @@ contract Sync {
 // @deeydos CHANGE_1::FINAL AFTER CREATING CHANGE_2::BRANCH.DRAFT_PULL()
 
 // yo, squash && merge
+// now, rebase && merge
 }
